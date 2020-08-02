@@ -4,9 +4,9 @@ title: About
 ---
 ## **Experience**
 ---
-**Therap (BD) Ltd.** <br />
-*Software Engineer, QA (Oct 2019 - Present)*
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec viverra velit, nec rutrum urna
+**Gigolo at Sex Club** <br />
+*Gigolo, Dick King (Oct 2019 - Present)*
+* Asho Kheli Project
 * Nunc cursus turpis mi, non egestas est tincidunt vitae. Donec at pulvinar ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 * Sed lacinia tristique ligula, at egestas augue gravida quis.
 
