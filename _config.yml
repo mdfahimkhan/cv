@@ -2,7 +2,7 @@ title: Fahim Khan Tushar
 description: BS in Microbiology.
 baseurl: "/cv/"
 url: ""
-resume_url: "resume.pdf"
+resume_url: "Resume.pdf"
 
 markdown: kramdown
 theme: minima
