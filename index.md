@@ -1,7 +1,8 @@
+
 ---
-layout: default
-title: About
+## **About**
 ---
+* Microbiology graduate with research experience in environmental microbiology laboratory. Skilled in performing biochemical and molecular tests and basic microbiological techniques. Looking for an opportunity to build a professional career as a microbiologist.
 ## **Experience**
 ---
 **Roar Bangla** <br />
@@ -12,8 +13,8 @@ title: About
 
 ## **Education**
 ---
-**Universityof Dhaka** </br>
-*Bachelor of Science in Microbiology (Jan 2016- Feb 2020) </br>
+**Universityof Dhaka** <br />
+*Bachelor of Science in Microbiology (Jan 2016- Feb 2020) <br />
 CGPA: **3.88** (out of **4.00**)
 
 ## **Honors & Achievements**
@@ -36,11 +37,24 @@ CGPA: **3.88** (out of **4.00**)
 
 ## **Skills**
 ---
-* **Languages:** Java, C++, SQL
-* **Technologies:** Git, Linux
-* **Tools:** JIRA
+* **Languages:** Python.
+* **Cultural Activities:** Public Speaking, Impromptu, Solo Acting.
+* **Writing:** Story and creative article writing.
+
+## **Laboratory Skills**
+---
+* PCR
+* ELISA
+* DNA Extraction
+* Biochemical Methods
+* Antibiogram
+* Plasmid Extraction
 
 ## **Contact**
 ---
-* **Email:** tahanimachowdhury@gmail.com
-* **Github:** [https://github.com/Tahanima](https://github.com/Tahanima)
+* **Address:** 406, Wilson Road, Bandar, Narayanganj-1410.
+* **Mobile:** +8801521261440
+* **Email:** fahimkh9@gmail.com
+* **Github:** [https://github.com/mdfahimkhan](https://github.com/mdfahimkhan)
+* **Linkedin:** [https://www.linkedin.com/in/md-fahim-khan-0158aa111/] (https://www.linkedin.com/in/md-fahim-khan-0158aa111/)
+
