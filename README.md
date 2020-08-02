@@ -13,7 +13,7 @@ Prerequisite: Knowledge of Github and Markdown Syntax
 * Edit the **_config.yml file**.
 * Change the value for **title** from ***Tahanima Chowdhury*** to anything you want.
 * Change the value for **description** from ***Software Engineer, QA @ Therap (BD) Ltd.*** to anything you want.
-* If you have changed your repository name from ***remple*** to your preferred name, you need to change the value for **baseurl** from ***"/remple/"*** to ***"/[your preffered name]/"***.
+* If you have changed your repository name from ***remple*** to your preferred name, you need to change the value for **baseurl** from ***"/remple/"*** to ***"/[your preferred name]/"***.
 
 **Step 3**
 * Edit the **index.md** file with your credentials.
