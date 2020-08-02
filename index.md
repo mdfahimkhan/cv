@@ -1,8 +1,12 @@
-
 ---
+layout: default
+title: About
+---
+
 ## **About**
 ---
 * Microbiology graduate with research experience in environmental microbiology laboratory. Skilled in performing biochemical and molecular tests and basic microbiological techniques. Looking for an opportunity to build a professional career as a microbiologist.
+
 ## **Experience**
 ---
 **Roar Bangla** <br />
