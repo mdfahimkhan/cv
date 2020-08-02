@@ -5,7 +5,7 @@ title: About
 
 ## **About**
 ---
-* Microbiology graduate with research experience in environmental microbiology laboratory. Skilled in performing biochemical and molecular tests and basic microbiological techniques. Looking for an opportunity to build a professional career as a microbiologist.
+Microbiology graduate with research experience in environmental microbiology laboratory. Skilled in performing biochemical and molecular tests and basic microbiological techniques. Looking for an opportunity to build a professional career as a microbiologist.
 
 ## **Experience**
 ---
