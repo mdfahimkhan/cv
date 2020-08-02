@@ -34,10 +34,10 @@ CGPA: **3.88** (out of **4.00**)
 * **Project Name:** IDENTIFICATION AND CHARACTERIZATION OF MICROORGANISMS FROM CANCER PATIENT BLOOD SAMPLE. <br />
 **Supervisor:** Professor Dr. Sanjukta Ahsan
 **Workflow:**
- * Sample subculture from stock
- * Biochemical analysis
- * Antibiotic sensitivity test
- * Molecular identification (DNA extraction, PCR, agarose gel electrophoresis, measuring DNA concentration, DNA sequencing, sequence analysis)
+   * Sample subculture from stock
+   * Biochemical analysis
+   * Antibiotic sensitivity test
+   * Molecular identification (DNA extraction, PCR, agarose gel electrophoresis, measuring DNA concentration, DNA sequencing, sequence analysis)
 
 ## **Skills**
 ---
