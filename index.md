@@ -32,12 +32,12 @@ CGPA: **3.88** (out of **4.00**)
 ## **Project**
 ---
 * **Project Name:** IDENTIFICATION AND CHARACTERIZATION OF MICROORGANISMS FROM CANCER PATIENT BLOOD SAMPLE. <br />
-**Supervisor:** Professor Dr. Sanjukta Ahsan <br />
+**Supervisor:** Professor Dr. Sanjukta Ahsan
 **Workflow:**
-* Sample subculture from stock
-* Biochemical analysis
-* Antibiotic sensitivity test
-* Molecular identification (DNA extraction, PCR, agarose gel electrophoresis, measuring DNA concentration, DNA sequencing, sequence analysis)
+ * Sample subculture from stock
+ * Biochemical analysis
+ * Antibiotic sensitivity test
+ * Molecular identification (DNA extraction, PCR, agarose gel electrophoresis, measuring DNA concentration, DNA sequencing, sequence analysis)
 
 ## **Skills**
 ---
@@ -60,5 +60,5 @@ CGPA: **3.88** (out of **4.00**)
 * **Mobile:** +8801521261440
 * **Email:** fahimkh9@gmail.com
 * **Github:** [https://github.com/mdfahimkhan](https://github.com/mdfahimkhan)
-* **Linkedin:** https://www.linkedin.com/in/md-fahim-khan-0158aa111/
+* **Linkedin:** [https://www.linkedin.com/in/md-fahim-khan-0158aa111/] (https://www.linkedin.com/in/md-fahim-khan-0158aa111/)
 
