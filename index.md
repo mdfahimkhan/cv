@@ -17,7 +17,7 @@ Microbiology graduate with research experience in environmental microbiology lab
 
 ## **Education**
 ---
-**Universityof Dhaka** <br />
+**University of Dhaka** <br />
 *Bachelor of Science in Microbiology (Jan 2016- Feb 2020) <br />
 CGPA: **3.88** (out of **4.00**)
 
