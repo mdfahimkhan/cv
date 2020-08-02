@@ -4,35 +4,35 @@ title: About
 ---
 ## **Experience**
 ---
-**Gigolo at Sex Club** <br />
-*Gigolo, Dick King (Oct 2019 - Present)*
-* Asho Kheli Project
-* Nunc cursus turpis mi, non egestas est tincidunt vitae. Donec at pulvinar ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-* Sed lacinia tristique ligula, at egestas augue gravida quis.
-
-**Sourcetop, Inc** <br />
-*Jr. Software Engineer (Feb 2018 – Aug 2018)*
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec viverra velit, nec rutrum urna
-* Nunc cursus turpis mi, non egestas est tincidunt vitae. Donec at pulvinar ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-* Sed lacinia tristique ligula, at egestas augue gravida quis.
+**Roar Bangla** <br />
+*Feature Writer (Jun 2017 - Present)*
+* Published 125 articles about various topics.
+* Written 13 video scripts.
+* Contributor for Roar Bangla Covid-19 live update.
 
 ## **Education**
 ---
-**BRAC University** <br />
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)* <br />
-CGPA: **3.71** (out of **4.00**)
+**Universityof Dhaka** </br>
+*Bachelor of Science in Microbiology (Jan 2016- Feb 2020) </br>
+CGPA: **3.88** (out of **4.00**)
 
 ## **Honors & Achievements**
 ---
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, *Jan 2018*
-* Quisque nec viverra velit, nec rutrum urna Nunc cursus turpis mi, non egestas est tincidunt vitae, *Aug 2016*
-* Sed lacinia tristique ligula, at egestas augue gravida quis, *Dec 2015*
+* Roar Bangla Best Write-up pf the year 2019
+* Best poetry, Golpokobita.com, *Aug 2016*
+* Best story of the month, Golpokobita.com *Feb 2018*
+* Best Solo Actor, Faujdarhat Cadet College
+* Best Extempore Speaker, Faujdarhat Cadet College
 
 ## **Project**
 ---
-* **Saucedemo Test Automation:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec viverra velit, nec rutrum urna Nunc cursus turpis mi, non egestas est tincidunt vitae. <br />
-**Tech Stack:** Java and Selenium WebDriver <br />
-**URL:** [https://github.com/Tahanima/saucedemo-test-automation](https://github.com/Tahanima/saucedemo-test-automation) 
+* **Project Name:** IDENTIFICATION AND CHARACTERIZATION OF MICROORGANISMS FROM CANCER PATIENT BLOOD SAMPLE. <br />
+**Supervisor:** Professor Dr. Sanjukta Ahsan </br>
+**Workflow:**
+* Sample subculture from stock
+* Biochemical analysis
+* Antibiotic sensitivity test
+* Molecular identification (DNA extraction, PCR, agarose gel electrophoresis, measuring DNA concentration, DNA sequencing, sequence analysis)
 
 ## **Skills**
 ---
