@@ -60,5 +60,5 @@ CGPA: **3.88** (out of **4.00**)
 * **Mobile:** +8801521261440
 * **Email:** fahimkh9@gmail.com
 * **Github:** [https://github.com/mdfahimkhan](https://github.com/mdfahimkhan)
-* **Linkedin:** [https://www.linkedin.com/in/md-fahim-khan-0158aa111/](https://www.linkedin.com/in/md-fahim-khan-0158aa111/)
+* **Linkedin:** [https://www.linkedin.com/in/md-fahim-khan-0158aa111/](https://www.linkedin.com/in/md-fahim-khan-0158aa111)
 
